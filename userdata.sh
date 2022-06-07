@@ -1,4 +1,5 @@
 #!/bin/bash
+
 curl -o /usr/local/bin/wizcli https://wizcli.app.wiz.io/wizcli
 chmod +x /usr/local/bin/wizcli
 export WIZ_DIR="/root/.wiz"
